@@ -1,2 +1,7 @@
 [client]
 showSidebarNavigation = false
+toolbarMode = "minimal"
+
+[server]
+runOnSave = true
+port = 80
